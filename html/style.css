@@ -1,0 +1,29 @@
+ul li.checked {
+	background: rgb(172, 172, 172);
+	color: #fff;
+}
+
+.close {
+	position: absolute;
+	right: 1vh;
+	top: 0;
+	padding: 8px 1px 8px 1px;
+}
+
+#deleteAll {
+	position: absolute;
+	right: 5px;
+	top: 4.5px;
+}
+
+/* Ekleme */
+.edit {
+	position: absolute;
+	right: 5vh;
+	top: 0vh;
+	padding: 8px 1px 8px 1px;
+}
+
+#cardShow {
+	margin-top: 3vh;
+}
